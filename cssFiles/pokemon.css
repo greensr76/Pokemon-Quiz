@@ -1,0 +1,129 @@
+
+#progressBarShell{
+	width: 400px;
+	height : 15px;
+	background-color: #f2eded;
+}
+
+#progressBar{
+	left: 100%;
+	width:50%;
+	height: 15px;
+	background-color: #b4ff8e;
+}
+
+#exam{
+	height: 600px;
+	width: 1200px;
+	position: relative;
+	background-color: #f2eded;
+	border-style: solid;
+	border-size: 5px;
+	border-color: black;
+	margin: auto;
+	padding: 0;
+	font-size: 42px;
+	overflow: hidden;
+}
+
+#question{
+	height: 85%;
+	width: 50%;
+	float: left;
+	border-right-style: dashed;
+	border-right-color: black;
+	border-right-size: 5px;
+	padding-right: 15px;
+	text-align: center;
+}
+
+#qText{
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+
+#qImage {
+	width: 400px;
+	height: 350px;
+	margin: auto;
+	text-align: center;
+}
+
+#answers{
+	text-align: center;
+	height: 85%;
+	width: 50%;
+	padding-top: 50px;
+}
+
+#Submit{
+	position: absolute;
+	right: 10%;
+	bottom: 5%;
+	font-size: 50%;
+}
+
+#userInput {
+	font-size: 100%;
+	width: 60%;
+}
+
+#questionHeader{
+	padding-bottom; 0;
+	margin-bottom: auto;
+}
+
+footer{
+	text-align: center;
+	position: center;
+	bottom: 5%;
+
+}
+
+h1{
+	position: center;
+	text-align: center;
+	background-color: #fc5050;
+	padding-bottom: 0;
+}
+
+h2{
+	position: center;
+	text-align: center;
+}
+
+
+table{
+	position: center;
+	text-align: center;
+	height: 500px;
+	width: 1200px;
+}
+
+table button{
+	text-align: center;
+	position: center;
+}
+
+form {
+	position: absolute;
+	text-align: left;
+	left: 60%;
+}
+
+form p{
+	text-align: left;
+}
+
+#resultContainer{
+	text-align: left;
+}
+#resultContainer ol{
+	font-size: 300%;
+}
+
+button{
+	font-size: 150%;
+	background-color: #83c4f7;
+
+}
